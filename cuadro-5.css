@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #e1e5f2;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+.section-1{
+    margin-left: 4vw;
+}
+
+.contenido-texto{
+    margin-top: 8vh;
+    font-size: 2vw;
+}
+
+.fila a{
+    margin-top: 6vh;
+    line-height: 10vh;
+    text-decoration: none;
+    color: black;
+    font-size: 1.2vw;
+}
+.texto-2 a{
+    margin-top: 6vh;
+    line-height: 18vh;
+    text-decoration: none;
+    color: black;
+    font-size: 1.2vw;
+}
+.carrito {
+    width: 2vw;
+    margin-left: 1vw;
+}
+footer{
+    line-height: 20vh;
+    font-size: 1.3vw;
+}
+.section-2{
+    display: flex;
+    justify-content: center;
+    margin-top: -90vh;
+    margin-left: 10vw;
+}
+.cuadro{
+    background-color: #b5e2fa;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 75vw;
+    height: 85vh;
+}
+.cuadro p{
+    margin: 0;
+    font-size: 2vw;
+    margin-left: 2vw;
+}
+
+.borde-1{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 18px;
+    margin: 4vw;
+    height: 10vh;
+    width: 65vw; 
+    gap: 8vw;
+}
+.borde-1 p{
+    font-size: 1.2vw;
+    line-height: 4vh;
+}
+.boton{
+    border: 1px solid black;
+    width: 5vw;
+    height: 3vh;
+    margin-top: 4vh;
+    margin-left: -12.5vw;
+}
+.carrito-2 img{
+    margin-left: 63vw;
+}
+
+.borde-2{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 18px;
+    margin: 4vw;
+    height: 10vh;
+    width: 65vw; 
+    gap: 8vw;
+}
+.borde-2 p{
+    font-size: 1.2vw;
+    line-height: 4vh;
+}
+.boton-2{
+    border: 1px solid black;
+    width: 5vw;
+    height: 3vh;
+    margin-top: 4vh;
+    margin-left: -12.5vw;
+}
+.carrito-2 img{
+    margin-left: 63vw;
+}
