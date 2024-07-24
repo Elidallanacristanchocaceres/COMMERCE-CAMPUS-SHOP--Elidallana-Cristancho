@@ -63,7 +63,7 @@ footer{
     margin: 4vw;
     height: 10vh;
     width: 65vw; 
-    gap: 8vw;
+    gap: 6vw;
 }
 .borde-1 p{
     font-size: 1.2vw;
@@ -74,10 +74,7 @@ footer{
     width: 5vw;
     height: 3vh;
     margin-top: 4vh;
-    margin-left: -12.5vw;
-}
-.carrito-2 img{
-    margin-left: 63vw;
+    margin-left: -10.5vw;
 }
 
 .borde-2{
@@ -100,6 +97,101 @@ footer{
     margin-top: 4vh;
     margin-left: -12.5vw;
 }
-.carrito-2 img{
-    margin-left: 63vw;
+
+.precio-1 p{
+    margin-left: 4vw;
 }
+.total{
+    margin-left: 3vw;
+}
+
+.total-1{
+    margin-left: 1vw;
+}
+.carrito-1 img{
+    width: 2.5vw;
+    margin-top: 2vh;
+    margin-left: 3vw;
+}
+.carrito-2 img{
+    width: 2.5vw;
+    margin-top: 2vh;
+    margin-left: 1vw;
+}
+
+.borde-3{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 18px;
+    margin: 4vw;
+    height: 10vh;
+    width: 65vw; 
+    gap: 8vw;
+}
+.borde-3 p{
+    font-size: 1.2vw;
+    line-height: 4vh;
+}
+.canti-1{
+    margin-left: -1.2vw;
+}
+
+.carrito-3 img{
+    margin-left: 80vw;
+}
+.precio-3 p{
+    margin-left: 2.5vw;
+}
+.total-3{
+    margin-left: 1vw;
+}
+
+.carrito-3 img{
+    width: 2.5vw;
+    margin-top: 2vh;
+    margin-left: 1.4vw;
+}
+.boton-3{
+    border: 1px solid black;
+    width: 5vw;
+    height: 3vh;
+    margin-top: -14vh;
+    margin-left: 21vw;
+}
+.cuadrito a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6vh;
+    margin-left: 4vw;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 8vw;
+    height: 3vh;
+    text-decoration: none;
+    color: black;
+}
+.cuadro-2 p{
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 14px;
+    width: 16vw;
+    height: 7vh;
+    margin-top: -6vh;
+    margin-left: 53.2vw;
+    font-size: 1vw;
+}
+.cuadro-3 {
+    border: 1px solid black;
+    margin-left: 60vw;
+    border-radius: 10px;
+    width: 8vw;
+    height: 2.5vh;
+}
+.cuadro-3 a{
+    font-size: 1vw;
+    text-decoration: none;
+    color: black;
+}
+
