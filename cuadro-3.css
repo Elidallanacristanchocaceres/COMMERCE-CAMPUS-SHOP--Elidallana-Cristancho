@@ -203,3 +203,94 @@ footer{
     margin-left: 9vw;
     margin-top: 4vh;
 }
+@media (max-width: 430px) {
+    body {
+        overflow: auto;
+        height: auto;
+        width: 100%;
+    }
+    
+    .section-1 {
+        margin-left: 2vw;
+    }
+
+    .contenido-texto {
+        margin-top: 5vh;
+        font-size: 4vw;
+    }
+
+    .fila a,
+    .texto-2 a {
+        font-size: 3vw;
+    }
+
+    .carrito {
+        width: 4vw;
+        margin-left: 2vw;
+    }
+
+    footer {
+        line-height: 10vh;
+        font-size: 2.5vw;
+    }
+
+    .section-2 {
+        flex-direction: column;
+        align-items: center;
+        margin: 0;
+    }
+
+    .cuadro {
+        width: 90vw;
+        height: auto;
+    }
+
+    .abrigos,
+    .abrigos-2,
+    .abrigos-3,
+    .abrigos-4,
+    .abrigos-5 {
+        width: 80vw;
+        height: auto;
+        margin: 2vw 0;
+    }
+
+    .saco-1,
+    .saco-2,
+    .saco-3,
+    .saco-4,
+    .saco-5 {
+        width: 80vw;
+        height: auto;
+    }
+
+    .precio,
+    .precio-2,
+    .precio-3,
+    .precio-4,
+    .precio-5 {
+        height: auto;
+        padding: 2vw;
+        border-radius: 10px;
+    }
+
+    .precio p,
+    .precio-2 p,
+    .precio-3 p,
+    .precio-4 p,
+    .precio-5 p {
+        margin-top: 1vw;
+        margin-left: 1vw;
+        font-size: 3vw;
+    }
+
+    .precio button,
+    .precio-2 button,
+    .precio-3 button,
+    .precio-4 button,
+    .precio-5 button {
+        font-size: 3vw;
+        margin-left: auto;
+        margin-top: 1vw;
+    }
+}
